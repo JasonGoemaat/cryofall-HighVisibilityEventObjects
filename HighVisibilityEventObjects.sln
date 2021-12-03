@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighVisibilityEventObjects", "HighVisibilityEventObjects.csproj", "{E14A1D30-5EC3-49EE-9D8A-994D8FF44EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_LibsAsProjects|Any CPU = Debug_LibsAsProjects|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E14A1D30-5EC3-49EE-9D8A-994D8FF44EFB}.Debug_LibsAsProjects|Any CPU.ActiveCfg = Debug_LibsAsProjects|Any CPU
+		{E14A1D30-5EC3-49EE-9D8A-994D8FF44EFB}.Debug_LibsAsProjects|Any CPU.Build.0 = Debug_LibsAsProjects|Any CPU
+		{E14A1D30-5EC3-49EE-9D8A-994D8FF44EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14A1D30-5EC3-49EE-9D8A-994D8FF44EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {062F01D5-A2A1-4E13-93A9-E40CB1EC9B6A}
+	EndGlobalSection
+EndGlobal
